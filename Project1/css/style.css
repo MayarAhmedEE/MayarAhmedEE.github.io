@@ -1,0 +1,88 @@
+body{
+  box-shadow: 2px 2px 20px #4A75B6;
+}
+h1{
+  text-align: center;
+  font-size: 60px;
+  color:#4A75B6;
+  font-style: italic;
+  background-color: #66686B;
+}
+#image {
+width: 100%;
+height: auto;
+max-width: 625px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+text-align: center;
+box-shadow: 2px 2px 20px black;
+}
+#img-caption{
+ text-align: center;
+ font-size: 20px;
+ margin-top: 15px;
+ font-weight:bold;
+ font-style: italic;
+ color:#6B6B6B; 
+}
+#about-socrat-p1{
+  font-size: 30px;
+  text-align: center;
+}
+#tribute-link{
+  text-decoration: none;
+}
+#tribute-link:hover{
+  color:#66686B;
+}
+#h2{ 
+  text-align:center;
+  font-size: 33px;
+  font-style: italic;
+  background-color:#D2CBD2;
+}
+#Description{
+  float: left;
+  width:400px;
+  height:auto;
+  margin:50px;
+  text-align: justify;
+}
+#p2-description{
+  font-size: 20px;
+}
+#SocraticProblem{
+  float: left;
+  width:400px;
+  height:auto;
+  margin:50px;
+  padding-left: 40px;
+  text-align: justify;
+}
+#p3-SocraticProblem{
+  font-size: 20px;
+}
+#Life{
+  float:right;
+  width:400px;
+  height:auto;
+  margin:50px;
+  text-align: justify; 
+}
+#p4-Life{
+  font-size: 20px;
+}
+footer{
+  padding: 6px 40px 6px 40px;
+  margin-top: 40%;
+  font-family: "Lucida Sans Unicode";
+  font-size: 20px;
+  text-align: center;
+}
+footer a{
+  text-decoration: none;
+}
+footer a:hover{
+  color:#66686B;
+}
